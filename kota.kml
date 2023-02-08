@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Schema name="schema0" id="schema0">
+		<SimpleField type="string" name="Description">
+		</SimpleField>
+		<SimpleField type="string" name="pdfmaps_photos">
+			<displayName>Photos</displayName>
+		</SimpleField>
+	</Schema>
+	<Style id="style1">
+		<IconStyle>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="style0">
+		<IconStyle>
+			<color>7f0099ff</color>
+			<Icon>
+				<href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0099ff</color>
+			<width>4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f0099ff</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="0A96DE66B5275A3F00D1">
+		<name>Kota jambi</name>
+		<styleUrl>#style0</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#schema0">
+			</SchemaData>
+		</ExtendedData>
+		<Placemark id="0515A7B7DC275A3F46D7">
+			<name>Ahmad saleh RT 42 Lingkar Selatan</name>
+			<TimeStamp><when>2022-07-30T14:13:59+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Ahmad saleh RT 42 Lingkar Selatan  (2).jpg" /><br /><img src="images/Ahmad saleh RT 42 Lingkar Selatan  (1).jpg" /><br /><img src="images/Ahmad saleh RT 42 Lingkar Selatan .jpg" /><br /><img src="images/Ahmad saleh RT 42 Lingkar Selatan  (20).jpg" /><br /><img src="images/Ahmad saleh RT 42 Lingkar Selatan  (16).jpg" /><br /><img src="images/Ahmad saleh RT 42 Lingkar Selatan  (15).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.63701757116,-1.64827063202153,26.4917793273926</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="078C58FCA0275A3F4B5E">
+			<name>Anita RT 002 Tanjung Johor</name>
+			<TimeStamp><when>2022-08-20T16:01:38+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Anita RT 002 Tanjung Johor (3).jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor (2).jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor (1).jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor.jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor (15).jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor (14).jpg" /><br /><img src="images/Anita RT 002 Tanjung Johor (13).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.627610245854,-1.56476633381581,11.3959999084473</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07FFEB963D275A3F4B5F">
+			<name>Asna RT 36 Legok</name>
+			<TimeStamp><when>2022-09-02T15:21:10+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Asna RT 36 Legok (2).jpg" /><br /><img src="images/Asna RT 36 Legok (1).jpg" /><br /><img src="images/Asna RT 36 Legok.jpg" /><br /><img src="images/Asna RT 36 Legok (14).jpg" /><br /><img src="images/Asna RT 36 Legok (13).jpg" /><br /><img src="images/Asna RT 36 Legok (12).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.596596897617,-1.59436719856137,11.7384767532349</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0EB913EB2A275A3F4B61">
+			<name>Asrinah RT 16 Paal Merah</name>
+			<TimeStamp><when>2022-09-05T12:04:15+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Asrinah RT 16 Paal Merah (2).jpg" /><br /><img src="images/Asrinah RT 16 Paal Merah (1).jpg" /><br /><img src="images/Asrinah RT 16 Paal Merah (6).jpg" /><br /><img src="images/Asrinah RT 16 Paal Merah (5).jpg" /><br /><img src="images/Asrinah RT 16 Paal Merah (3).jpg" /><br /><img src="images/Asrinah RT 16 Paal Merah.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.63051635759,-1.64067279949367,25.0678062438965</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F98593932275A3F4B62">
+			<name>Baniah RT 18 Tanjung Sari</name>
+			<TimeStamp><when>2022-08-01T16:43:19+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Baniah RT 18 Tanjung Sari (3).jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari (2).jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari (1).jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari.jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari (12).jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari (11).jpg" /><br /><img src="images/Baniah RT 18 Tanjung Sari (10).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.636107472799,-1.58842974342554,19.6959991455078</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02C895D25C275A3F4B63">
+			<name>Ernawati RT 36 Legok</name>
+			<TimeStamp><when>2022-08-20T15:19:25+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Ernawati RT 36 Legok (3).jpg" /><br /><img src="images/Ernawati RT 36 Legok (2).jpg" /><br /><img src="images/Ernawati RT 36 Legok (1).jpg" /><br /><img src="images/Ernawati RT 36 Legok.jpg" /><br /><img src="images/Ernawati RT 36 Legok (16).jpg" /><br /><img src="images/Ernawati RT 36 Legok (15).jpg" /><br /><img src="images/Ernawati RT 36 Legok (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.596661819359,-1.5931563499395,12.3723249435425</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="050F268CB1275A3F4B64">
+			<name>Inawati RT 009 Tj.Sari</name>
+			<TimeStamp><when>2022-08-16T13:04:02+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Inawati RT 009 Tj.Sari (2).jpg" /><br /><img src="images/Inawati RT 009 Tj.Sari (1).jpg" /><br /><img src="images/Inawati RT 009 Tj.Sari.jpg" /><br /><img src="images/Inawati RT 009 Tj.Sari (14).jpg" /><br /><img src="images/Inawati RT 009 Tj.Sari (13).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.636456545328,-1.59361070530279,23.5097961425781</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0317B439CD275A3F4B65">
+			<name>Janu Warti RT 16 Kasamba</name>
+			<TimeStamp><when>2022-10-04T17:33:52+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Janu Warti RT 16 Kasamba (1).jpg" /><br /><img src="images/Janu Warti RT 16 Kasamba.jpg" /><br /><img src="images/Janu Warti RT 16 Kasamba (22).jpg" /><br /><img src="images/Janu Warti RT 16 Kasamba (21).jpg" /><br /><img src="images/Janu Warti RT 16 Kasamba (18).jpg" /><br /><img src="images/Janu Warti RT 16 Kasamba (2).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.621710830205,-1.67593119523112,51.7194862365723</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0660AC9280275A3F4B66">
+			<name>Juan kusuma Sari RT 18 Kenali Asam Atas</name>
+			<TimeStamp><when>2022-08-01T13:15:31+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas (2).jpg" /><br /><img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas (1).jpg" /><br /><img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas.jpg" /><br /><img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas (14).jpg" /><br /><img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas (13).jpg" /><br /><img src="images/Juan kusuma Sari RT 18 Kenali Asam Atas (12).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.620835041591,-1.65250391770148,37.924488067627</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0470EA39E7275A3F4B68">
+			<name>Kantor Lurah Penyengat Rendah</name>
+			<TimeStamp><when>2022-08-04T10:08:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>103.556564905157,-1.57051548199837,13.5860004425049</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="03892FC535275A3F30FB">
+			<name>Koordinasi Bapedda</name>
+			<TimeStamp><when>2022-07-28T09:31:28+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>103.609209408356,-1.62857733164223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="13EA6A7F6E275A3F4B68">
+			<name>Koordinasi Dinsos</name>
+			<TimeStamp><when>2022-07-27T11:37:26+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>103.622842800123,-1.61067200552567,27.6288280487061</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2213A34F6C275A3F4B68">
+			<name>Koordinasi Perkim</name>
+			<TimeStamp><when>2022-07-27T12:24:29+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<Point>
+				<coordinates>103.606076119564,-1.63011210970733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0915F30F74275A3F4B69">
+			<name>Lasdiana RT 12 Murni</name>
+			<TimeStamp><when>2022-09-13T09:33:50+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Lasdiana RT 12 Murni (5).jpg" /><br /><img src="images/Lasdiana RT 12 Murni (4).jpg" /><br /><img src="images/Lasdiana RT 12 Murni (3).jpg" /><br /><img src="images/Lasdiana RT 12 Murni (2).jpg" /><br /><img src="images/Lasdiana RT 12 Murni (1).jpg" /><br /><img src="images/Lasdiana RT 12 Murni.jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.604046543018,-1.59887182892016,19.0608005523682</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="02605210AD275A3F4B6A">
+			<name>Mariana RT25 Legok</name>
+			<TimeStamp><when>2022-08-09T15:18:44+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Mariana RT25 Legok (3).jpg" /><br /><img src="images/Mariana RT25 Legok (2).jpg" /><br /><img src="images/Mariana RT25 Legok (1).jpg" /><br /><img src="images/Mariana RT25 Legok.jpg" /><br /><img src="images/Mariana RT25 Legok (13).jpg" /><br /><img src="images/Mariana RT25 Legok (12).jpg" /><br /><img src="images/Mariana RT25 Legok (11).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.594180857859,-1.59379194025099,12.3383960723877</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1B27410027275A3F4B6A">
+			<name>Nelawati RT 10 Cempaka Putih</name>
+			<TimeStamp><when>2022-08-01T14:36:51+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Nelawati RT 10 Cempaka Putih (2).jpg" /><br /><img src="images/Nelawati RT 10 Cempaka Putih (1).jpg" /><br /><img src="images/Nelawati RT 10 Cempaka Putih.jpg" /><br /><img src="images/Nelawati RT 10 Cempaka Putih (13).jpg" /><br /><img src="images/Nelawati RT 10 Cempaka Putih (11).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.612375802256,-1.60452425301394,14.8400001525879</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="01AB076259275A3F4B6B">
+			<name>Nurdianti  RT 37 Lingkr Selatan</name>
+			<TimeStamp><when>2022-09-16T15:06:08+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Nurdianti  RT 37 Lingkr Selatan (2).jpg" /><br /><img src="images/Nurdianti  RT 37 Lingkr Selatan (1).jpg" /><br /><img src="images/Nurdianti  RT 37 Lingkr Selatan.jpg" /><br /><img src="images/Nurdianti  RT 37 Lingkr Selatan (11).jpg" /><br /><img src="images/Nurdianti  RT 37 Lingkr Selatan (8).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.642337238513,-1.64873062167471,17.1599369049072</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="05712C49C3275A3F4B6C">
+			<name>Parida RT 36 Legok</name>
+			<TimeStamp><when>2022-08-16T15:34:45+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Parida RT 36 Legok (3).jpg" /><br /><img src="images/Parida RT 36 Legok (2).jpg" /><br /><img src="images/Parida RT 36 Legok (1).jpg" /><br /><img src="images/Parida RT 36 Legok.jpg" /><br /><img src="images/Parida RT 36 Legok (11).jpg" /><br /><img src="images/Parida RT 36 Legok (10).jpg" /><br /><img src="images/Parida RT 36 Legok (9).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.596719127933,-1.59262764121269,12.437614440918</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0DB446EF0C275A3F4B6D">
+			<name>Piyem Muryadi RT 18 Tj.Sari</name>
+			<TimeStamp><when>2022-08-16T12:30:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Piyem Muryadi RT 18 Tj.Sari (2).jpg" /><br /><img src="images/Piyem Muryadi RT 18 Tj.Sari (1).jpg" /><br /><img src="images/Piyem Muryadi RT 18 Tj.Sari.jpg" /><br /><img src="images/Piyem Muryadi RT 18 Tj.Sari (12).jpg" /><br /><img src="images/Piyem Muryadi RT 18 Tj.Sari (11).jpg" /><br /><img src="images/Piyem Muryadi RT 18 Tj.Sari (10).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.636303574753,-1.58835858421788,18.5545616149902</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07719097E6275A3F4B6E">
+			<name>RTS. Zuria RT 007 Penyengat Rendah</name>
+			<TimeStamp><when>2022-08-16T16:54:10+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/RTS. Zuria RT 007 Penyengat Rendah (3).jpg" /><br /><img src="images/RTS. Zuria RT 007 Penyengat Rendah (2).jpg" /><br /><img src="images/RTS. Zuria RT 007 Penyengat Rendah (1).jpg" /><br /><img src="images/RTS. Zuria RT 007 Penyengat Rendah.jpg" /><br /><img src="images/RTS. Zuria RT 007 Penyengat Rendah (12).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.55750745402,-1.57234293371486,11.9748001098633</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1CEC5F4A8D275A3F4B6E">
+			<name>Sadiah RT 8 Paal lima</name>
+			<TimeStamp><when>2022-08-01T09:25:49+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Sadiah RT 8 Paal lima (2).jpg" /><br /><img src="images/Sadiah RT 8 Paal lima (1).jpg" /><br /><img src="images/Sadiah RT 8 Paal lima.jpg" /><br /><img src="images/Sadiah RT 8 Paal lima (15).jpg" /><br /><img src="images/Sadiah RT 8 Paal lima (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.599485354561,-1.63634679346533,24.1459999084473</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0A8965CA19275A3F4B6F">
+			<name>Sarah RT 15 Pasir putih</name>
+			<TimeStamp><when>2022-07-30T11:22:17+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Sarah RT 15 Pasir putih (3).jpg" /><br /><img src="images/Sarah RT 15 Pasir putih.jpg" /><br /><img src="images/Sarah RT 15 Pasir putih (2).jpg" /><br /><img src="images/Sarah RT 15 Pasir putih (1).jpg" /><br /><img src="images/Sarah RT 15 Pasir putih (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.640306424412,-1.62132677858405,30.3439998626709</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BF1AC92C2275A3F4B70">
+			<name>Sayati RT 33 Tj.Pinang</name>
+			<TimeStamp><when>2022-09-07T15:24:55+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Sayati RT 33 Tj.Pinang (2).jpg" /><br /><img src="images/Sayati RT 33 Tj.Pinang (1).jpg" /><br /><img src="images/Sayati RT 33 Tj.Pinang.jpg" /><br /><img src="images/Sayati RT 33 Tj.Pinang (12).jpg" /><br /><img src="images/Sayati RT 33 Tj.Pinang (10).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.635439156869,-1.59706740204061,17.9039993286133</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F59C4E840275A3F4B71">
+			<name>Siti Hindun rT 20 Kel.Murni</name>
+			<TimeStamp><when>2022-08-06T17:02:56+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Siti Hindun rT 20 Kel.Murni (2).jpg" /><br /><img src="images/Siti Hindun rT 20 Kel.Murni (1).jpg" /><br /><img src="images/Siti Hindun rT 20 Kel.Murni.jpg" /><br /><img src="images/Siti Hindun rT 20 Kel.Murni (16).jpg" /><br /><img src="images/Siti Hindun rT 20 Kel.Murni (15).jpg" /><br /><img src="images/Siti Hindun rT 20 Kel.Murni (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.60269693897,-1.59709853671793,17.1618003845215</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0BE9ACF822275A3F4B72">
+			<name>Siti Maryati RT 20 Kel.Murni</name>
+			<TimeStamp><when>2022-08-06T16:42:07+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Siti Maryati RT 20 Kel.Murni (2).jpg" /><br /><img src="images/Siti Maryati RT 20 Kel.Murni (1).jpg" /><br /><img src="images/Siti Maryati RT 20 Kel.Murni.jpg" /><br /><img src="images/Siti Maryati RT 20 Kel.Murni (16).jpg" /><br /><img src="images/Siti Maryati RT 20 Kel.Murni (15).jpg" /><br /><img src="images/Siti Maryati RT 20 Kel.Murni (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.604456299516,-1.59645113411773,23.785701751709</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1A3EBD0B18275A3F4B72">
+			<name>Soleha RT 39 Kenali asam Bawah</name>
+			<TimeStamp><when>2022-08-01T10:41:25+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Soleha RT 39 Kenali asam Bawah (2).jpg" /><br /><img src="images/Soleha RT 39 Kenali asam Bawah (1).jpg" /><br /><img src="images/Soleha RT 39 Kenali asam Bawah.jpg" /><br /><img src="images/Soleha RT 39 Kenali asam Bawah (15).jpg" /><br /><img src="images/Soleha RT 39 Kenali asam Bawah (13).jpg" /><br /><img src="images/Soleha RT 39 Kenali asam Bawah (12).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.602438122131,-1.65816030465221,30.3055992126465</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="044AE1AD3D275A3F4B73">
+			<name>Sri Mulyani RT 09 Kel.selamat</name>
+			<TimeStamp><when>2022-08-06T15:15:58+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Sri Mulyani RT 09 Kel.selamat (2).jpg" /><br /><img src="images/Sri Mulyani RT 09 Kel.selamat (1).jpg" /><br /><img src="images/Sri Mulyani RT 09 Kel.selamat.jpg" /><br /><img src="images/Sri Mulyani RT 09 Kel.selamat (15).jpg" /><br /><img src="images/Sri Mulyani RT 09 Kel.selamat (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.596680494577,-1.61500943419203,23.9675998687744</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="08C40157CA275A3F4B74">
+			<name>Susila RT 30 Legok</name>
+			<TimeStamp><when>2022-08-09T16:20:32+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Susila RT 30 Legok (2).jpg" /><br /><img src="images/Susila RT 30 Legok.jpg" /><br /><img src="images/Susila RT 30 Legok (1).jpg" /><br /><img src="images/Susila RT 30 Legok (16).jpg" /><br /><img src="images/Susila RT 30 Legok (15).jpg" /><br /><img src="images/Susila RT 30 Legok (14).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.605654593654,-1.58994640689491,8.22879028320312</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="07D65D43E5275A3F4B75">
+			<name>Yuniarti RT 7 Kasang Jaya</name>
+			<TimeStamp><when>2022-08-01T17:16:01+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Yuniarti RT 7 Kasang Jaya (2).jpg" /><br /><img src="images/Yuniarti RT 7 Kasang Jaya (1).jpg" /><br /><img src="images/Yuniarti RT 7 Kasang Jaya.jpg" /><br /><img src="images/Yuniarti RT 7 Kasang Jaya (14).jpg" /><br /><img src="images/Yuniarti RT 7 Kasang Jaya (12).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.634301424123,-1.58648514188974,14.9917259216309</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1E11D16922275A3F4B75">
+			<name>Yusnidawati RT 2 Penyengat Rendah</name>
+			<TimeStamp><when>2022-08-04T11:26:30+07:00</when>
+</TimeStamp>
+			<styleUrl>#style1</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#schema0">
+					<SimpleData name="pdfmaps_photos"><![CDATA[<img src="images/Yusnidawati RT 2 Penyengat Rendah (2).jpg" /><br /><img src="images/Yusnidawati RT 2 Penyengat Rendah (1).jpg" /><br /><img src="images/Yusnidawati RT 2 Penyengat Rendah.jpg" /><br /><img src="images/Yusnidawati RT 2 Penyengat Rendah (16).jpg" /><br /><img src="images/Yusnidawati RT 2 Penyengat Rendah (15).jpg" /><br />]]></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>103.562741806011,-1.57431788757207,12.7424001693726</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
