@@ -14014,13 +14014,13 @@
 
 <td><a target="_blank" href="{{ asset('tampilan')/assets/img/rumah.jpeg }}">perkim_20221118_093623234.jpg</a></td>
 
-<td><a target="_blank" href="">perkim_20221118_093841018.jpg</a></td>
+<td><a target="_blank" href="{{ asset('tampilan')/assets/img/rumah.jpeg }}">perkim_20221118_093841018.jpg</a></td>
 
 </tr>
 
 <tr align="left" bgcolor="#D4E4F3">
 
-<td><a target="_blank" href="">perkim_20221118_094027672.jpg</a></td>
+<td><a target="_blank" href="{{ asset('tampilan')/assets/img/rumah.jpeg }}">perkim_20221118_094027672.jpg</a></td>
 
 <td><a target="_blank" href=""></a></td>
 
